@@ -1,8 +1,8 @@
-- 👋🏾 Hey, Im Victoria
-- 👩🏾‍💻 I’m interested in ... UX/UI design
-- 🌱 I’m currently learning ... Front-End Web Development
+- 👋🏾 Hey, Im Victoria !!
+- 👩🏾‍💻 I’m interested in ... UX/UI design, Web Development,  
+- 🌱 I’m currently learning ... Full Stack Web Development
 - 💞️ I’m looking to collaborate ... on web projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... brwknskncoding@outlook.com
 
 <!---
 heyimvictoria/heyimvictoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
