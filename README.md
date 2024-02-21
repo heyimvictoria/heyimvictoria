@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b76114h009anwyaj7yylasuc5tedox6poss1sbfa0msig&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="125"/>
+  <img src="https://media.giphy.com/media/Ss0EiG29MulxjBXKVu/giphy.gif?cid=790b7611x9ayystc8vnit9v0upgcb2rsc1cvukhigcfjawaa&ep=v1_stickers_search&rid=giphy.gif&ct=s"  width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/victoriamorris444/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,10 +11,14 @@
   </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/kd3ugTL4g37eib6H9k/giphy.gif?cid=790b7611eqqzv4jgz71z4gwdmnivfqo9ckvl9q1mi3akuf0e&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300"/>
+</div>
+
 ### 👩🏾‍💻 About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer at Accenture  
-- 🌱  I’m currently learning ... React and NextJs
-- 💞️ I’m looking to collaborate ... on web projects
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng3ZGN1emN0aTZqMHAydGF5ejcxNHlvc2dpdTQ0ZHFldmN4dWVhNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/R8c0QXyT9IKpfRjzI4/giphy.gif" width="30"> I’m currently learning ... React and NextJs
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVpb2Y4dXJ2NDZlMXJlZTh4cWR2MHkwcXk2ZzYzOGt0MHBrdnhlciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wM0IbbTKs2yhXck0sP/giphy.gif" width="30">  meet Bonhilda
 
 
 <!---
