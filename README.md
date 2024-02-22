@@ -17,8 +17,8 @@
 
 ### 👩🏾‍💻 About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer at Accenture  
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng3ZGN1emN0aTZqMHAydGF5ejcxNHlvc2dpdTQ0ZHFldmN4dWVhNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/R8c0QXyT9IKpfRjzI4/giphy.gif" width="30"> I’m currently learning ... React and NextJs
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVpb2Y4dXJ2NDZlMXJlZTh4cWR2MHkwcXk2ZzYzOGt0MHBrdnhlciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wM0IbbTKs2yhXck0sP/giphy.gif" width="30">  meet Bonhilda
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng3ZGN1emN0aTZqMHAydGF5ejcxNHlvc2dpdTQ0ZHFldmN4dWVhNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/R8c0QXyT9IKpfRjzI4/giphy.gif" width="30"> I am currently learning ... React and NextJs
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVpb2Y4dXJ2NDZlMXJlZTh4cWR2MHkwcXk2ZzYzOGt0MHBrdnhlciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wM0IbbTKs2yhXck0sP/giphy.gif" width="30"> Meet Bonehilda
 
 
 <!---
