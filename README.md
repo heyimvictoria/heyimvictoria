@@ -16,8 +16,8 @@
 </div>
 
 ### 👩🏾‍💻 About Me :
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer at Accenture  
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng3ZGN1emN0aTZqMHAydGF5ejcxNHlvc2dpdTQ0ZHFldmN4dWVhNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/R8c0QXyT9IKpfRjzI4/giphy.gif" width="30"> I am currently learning ... React and NextJs
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Software Engineer at AFS  
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng3ZGN1emN0aTZqMHAydGF5ejcxNHlvc2dpdTQ0ZHFldmN4dWVhNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/R8c0QXyT9IKpfRjzI4/giphy.gif" width="30"> I am enhancing my skills in Java and React while currently learning Express.js and AWS.
 - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVpb2Y4dXJ2NDZlMXJlZTh4cWR2MHkwcXk2ZzYzOGt0MHBrdnhlciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wM0IbbTKs2yhXck0sP/giphy.gif" width="30"> Meet Bonehilda
 
 
@@ -38,3 +38,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyimvictoria&layout=compact&theme=rose)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyimvictoria&theme=rose&border_radius=25&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+
